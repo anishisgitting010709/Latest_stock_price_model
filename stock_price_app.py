@@ -1,3 +1,10 @@
+pip install yfinance
+pip install matplotlib
+pip intall sklearn
+pip install keras
+pip install numpy
+pip install pandas
+pip install plotly
 import streamlit as st
 import yfinance as yf
 from datetime import datetime
